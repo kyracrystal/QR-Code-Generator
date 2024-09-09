@@ -2,7 +2,7 @@
 <h3>Features:</h3>
 <ul>
     <li>Basic QR Code Generator</li>
-    <li>Options for: Size</li>
+    <li>Size Options</li>
 </ul>
 <h3>Planned Features:</h3>
 <ul>
